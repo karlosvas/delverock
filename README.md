@@ -1,4 +1,4 @@
-# Proyecto Web de la Banda "Delve"
+# Proyecto Web de la Banda "Delve" 🎸
 
 Este repositorio contiene el código fuente de la página web estática de la banda de rock **Delve**, realizada originalmente en **WordPress** y transformada en una página estática mediante **Simply Static**. El sitio tiene como objetivo promocionar a la banda para facilitar que los bares y otros locales contraten sus servicios y los aficionados puedan conocer más sobre sus conciertos.
 
@@ -27,7 +27,7 @@ La web fue creada para el **Centro de Enseñanza Gregorio Fernández** de Vallad
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu_usuario/delverock.git
+    git clone https://github.com/karlosvas/delverock.git
     ```
 
 2. Accede a la carpeta del proyecto:
