@@ -4803,12 +4803,13 @@ div.bbp-template-notice a:focus {
   display: none;
 }
 
-.small-name {
-  h3 {
-    font-size: medium !important;
-  }
+.small-name h3 {
+  font-size: medium !important;
 }
 
-.menu-toggle {
-  background-color: transparent !important;
+#menu-toggle {
+  background-color: rgb(39, 39, 39);
+  color: #df5e4d;
+  border-color: transparent;
+  outline: 2px solid #df5e4d;
 }
