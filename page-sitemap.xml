@@ -2,27 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-01-14T16:23:02+00:00</lastmod>
+		<lastmod>2025-01-14T18:00:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/icon.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Imagen-de-WhatsApp-2025-01-08-a-las-21.24.46_4d23cc69-qzrd47ds12knyu3jkf4bt8ecg30i0fcvhwc9ecsz80.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Imagen-de-WhatsApp-2025-01-08-a-las-21.26.00_3a9012f2-qzrd499geqn8m20t9fxky7x9mur8ftkc65n8dth15c.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/ejemplo-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Sin-titulo-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/asdf-150x150.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
